@@ -19,3 +19,4 @@ summary(datos$Seasons)
 length(unique(datos$type))
 length(unique(datos$country))
 length(unique(datos$director))
+
